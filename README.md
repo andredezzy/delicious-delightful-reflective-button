@@ -4,7 +4,7 @@
   <br/>
 </a>
 
-<p>
+<p align="center">
   <a href="https://t.co/b9Ul8Kxpuh"><strong>Figma Community</strong></a>
   <span> · </span>
   <a href="https://play.tailwindcss.com/rUmiQMqnEg"><strong>Tailwind Play</strong></a>
