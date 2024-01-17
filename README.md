@@ -1,4 +1,4 @@
-<a href="delicious-delightful-reflective-button-andredezzy.vercel.app">
+<a href="https://delicious-delightful-reflective-button-andredezzy.vercel.app">
   <img alt="A delightful, reflective button component for React, fully built with Tailwind CSS over shadcn/ui button component." src="https://github.com/andredezzy/delicious-delightful-reflective-button/blob/main/.github/cover.png?raw=true">
   <br/>
   <br/>
