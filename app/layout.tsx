@@ -19,7 +19,7 @@ const newAthleticM54Font = localFont({
   weight: "400",
 });
 
-export const siteConfig = {
+const siteConfig = {
   name: "Delicious-delightful Reflective Button 😋",
   description:
     "A delightful, reflective button component for React, fully built with Tailwind CSS over shadcn/ui button component.",
