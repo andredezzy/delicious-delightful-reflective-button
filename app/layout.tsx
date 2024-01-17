@@ -22,7 +22,7 @@ const newAthleticM54Font = localFont({
 const siteConfig = {
   name: "Delicious-delightful Reflective Button 😋",
   description:
-    "A delightful, reflective button component for React, fully built with Tailwind over shadcn/ui button component.",
+    "A delightful, reflective button component for React, fully built with Tailwind over shadcn/ui button.",
   url: "https://delicious-delightful-reflective-button-andredezzy.vercel.app",
   ogImage:
     "https://delicious-delightful-reflective-button-andredezzy.vercel.app/images/opengraph.png",
